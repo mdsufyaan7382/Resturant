@@ -1,0 +1,29 @@
+.home-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 80vh;
+    background-color: #f0f0f0;
+  }
+  
+  .welcome-image {
+    max-width: 60%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .welcome-message {
+    text-align: center;
+  }
+  
+  .welcome-message h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  .welcome-message p {
+    font-size: 10px;
+    color: #777;
+  }
+  
